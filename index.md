@@ -34,7 +34,7 @@ description: VPN机场推荐，免费代理客户端功能详解
 | ------- | -------------------------------- | ----------------- |
 | 搜索与知识检索 | Google、Wikipedia、Google Scholar  | 连接稳定性、页面响应        |
 | 视频与流媒体  | YouTube、Netflix、Disney+          | 持续带宽、缓冲表现、服务兼容性   |
-| AI 与创作  | ChatGPT、Claude、Gemini            | 服务支持地区、连接稳定性      |
+| AI 与创作  | ChatGPT、Claude、Gemini            | IP纯净、服务支持地区、连接稳定性 |
 | 社交与社区   | X、Instagram、Facebook、Reddit      | 图片视频加载、日常连接体验     |
 | 开发与技术资料 | GitHub、Stack Overflow、Docker Hub | 下载稳定性、终端及应用代理配置   |
 | 工作与协作   | Gmail、Google Drive、Notion        | 长时间连接、上传能力、组织安全要求 |
